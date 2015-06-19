@@ -1,0 +1,2 @@
+# cspc
+Competitive programming problems
